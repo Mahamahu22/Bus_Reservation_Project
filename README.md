@@ -10,7 +10,6 @@ LOGIN DETAILS:
 UNAME: mahalakshmi
 
 
-Password:maha1234
 
 
 
